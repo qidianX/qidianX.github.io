@@ -1162,58 +1162,7 @@ $(document).ready(function() {
        &middot;
       <a href="http://www.runoob.com/cmake/cmake-basic.html" title="CMake 基础">CMake 基础</a>
       </dd>
-             </dl>
-     <dl>
-      <dt>
-       站点信息
-      </dt>
-      <dd>
-       &middot;
-       <a target="_blank" href="mailto:admin@runoob.com" rel="external nofollow">意见反馈</a>
-       </dd>
-      <dd>
-       &middot;
-      <a target="_blank" href="/disclaimer">免责声明</a>
-       </dd>
-      <dd>
-       &middot;
-       <a target="_blank" href="/aboutus">关于我们</a>
-       </dd>
-      <dd>
-       &middot;
-      <a target="_blank" href="/archives">文章归档</a>
-      </dd>
     
-     </dl>
-    
-     <div class="search-share">
-      <div class="app-download">
-        <div>
-         <strong>关注微信</strong>
-        </div>
-      </div>
-      <div class="share">
-      <img width="128" height="128" src="/wp-content/themes/runoob/assets/images/qrcode.png" />
-       </div>
-     </div>
-     
-    </div>
-   </div>
-   <div class="w-1000 copyright">
-     Copyright &copy; 2013-2024    <strong><a href="//www.runoob.com/" target="_blank">菜鸟教程</a></strong>&nbsp;
-    <strong><a href="//www.runoob.com/" target="_blank">runoob.com</a></strong> All Rights Reserved. 备案号：<a target="_blank" rel="nofollow" href="https://beian.miit.gov.cn/">闽ICP备15012807号-1</a>
-   </div>
-  </div>
-  <div class="fixed-btn">
-    <a class="go-top" href="javascript:void(0)" title="返回顶部"> <i class="fa fa-angle-up"></i></a>
-    <a class="qrcode"  href="javascript:void(0)" title="关注我们"><i class="fa fa-qrcode"></i></a>
-    <a class="writer" style="display:none" href="javascript:void(0)"   title="标记/收藏"><i class="fa fa-star" aria-hidden="true"></i></a>
-    <!-- qrcode modal -->
-    <div id="bottom-qrcode" class="modal panel-modal hide fade in">
-      <h4>微信关注</h4>
-      <div class="panel-body"><img alt="微信关注" width="128" height="128" src="/wp-content/themes/runoob/assets/images/qrcode.png"></div> 
-    </div>
-  </div>
 
 <div style="display:none;">
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-84264393-2"></script>
